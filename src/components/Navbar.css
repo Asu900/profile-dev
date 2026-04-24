@@ -1,0 +1,16 @@
+
+.container-navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background: linear-gradient(0.25turn, #00ff9d, #ebf8e1, #cf5cff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
